@@ -21,4 +21,4 @@ services:
 
 networks: 
     desafio-datum_api:
-        external: true
+        driver: bridge

@@ -9,7 +9,7 @@ namespace Datum.Desafio.Infra.Services
     public class GithubService : IGithubService
     {
         private readonly HttpClient _httpClient;
-        private string Endpoint => "https://api.github.com/repos/guilhermesouza1991/desafio-Datum";
+        private string Endpoint => "https://api.github.com/repos/guilhermess1991/desafio-datum";
         public GithubService(HttpClient httpClient)
         {
             _httpClient = httpClient;
