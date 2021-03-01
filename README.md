@@ -1,5 +1,5 @@
 <h1 align="center">Desafio Datum - Calular Taxa de Juros</h1>
-<p align="center">Projeto desenvolvido como desafio para seleção de Desenvolvedor .Net</p>
+<p align="center">Projeto desenvolvido como desafio para seleção de pessoa Desenvolvedora .Net Core</p>
 
 Tabela de conteúdos
 =================
