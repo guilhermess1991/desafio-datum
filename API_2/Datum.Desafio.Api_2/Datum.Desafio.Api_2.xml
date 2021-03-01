@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Datum.Desafio.Api_2</name>
+    </assembly>
+    <members>
+        <member name="M:Datum.Desafio.Api_2.Controllers.CalcularTaxaJuros.CalculaJuros(Datum.Desafio.Domain.Models.CalcularTaxaJurosModel)">
+            <summary>
+            Calcula taxa de juros
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Datum.Desafio.Api_2.Controllers.ShowMeTheCodeController.ShowMeTheCode">
+            <summary>
+            Busca URL referente do código fonte deste projeto disponibilizado no Github
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
