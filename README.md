@@ -33,7 +33,7 @@ Para iniciar o projeto, será preciso acessar o diretorio onde se encontra o arq
 $ docker-compose up -d
 ```
 
-Após o termino da execução do comando acima, já possivel acessar a interface do Swagger e desfrutar dos dois endpoints disponíveis.
+Após o termino da execução do comando acima, já possivel acessar a interface do Swagger em http://localhost:8081/swagger e desfrutar dos dois endpoints disponíveis.
 
 - /calculajuros (Calcula taxa de juros)
 - /showmethecode (Busca URL referente do código fonte deste projeto disponibilizado no Github)
